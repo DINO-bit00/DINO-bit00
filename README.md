@@ -22,8 +22,8 @@ Gue percaya setiap ahli dulunya adalah seorang pemula. Berikut adalah grafik pro
 | :--- | :--- | :--- |
 | **Data Science** | ![Progress](https://geps.dev/progress/30?dangerColor=36BCF7&warningColor=36BCF7&successColor=36BCF7) | `Beginner` |
 | **Machine Learning** | ![Progress](https://geps.dev/progress/25?dangerColor=36BCF7&warningColor=36BCF7&successColor=36BCF7) | `Beginner` |
-| **Deep Learning** | ![Progress](https://geps.dev/progress/20?dangerColor=36BCF7&warningColor=36BCF7&successColor=36BCF7) | `Beginner` |
-| **Web Development** | ![Progress](https://geps.dev/progress/35?dangerColor=36BCF7&warningColor=36BCF7&successColor=36BCF7) | `Beginner` |
+| **Deep Learning** | ![Progress](https://geps.dev/progress/10?dangerColor=36BCF7&warningColor=36BCF7&successColor=36BCF7) | `Beginner` |
+| **Web Development** | ![Progress](https://geps.dev/progress/20?dangerColor=36BCF7&warningColor=36BCF7&successColor=36BCF7) | `Beginner` |
 
 
 
