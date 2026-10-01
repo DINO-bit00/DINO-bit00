@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Informatics+Student;Data+Science+Enthusiast;Machine+Learning+Learner;Building+AI+%26+Web+Solutions" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://portofolio-pi-murex.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -61,7 +55,7 @@ Project developed as part of **Coding Camp 2026 Capstone Project (CC26-PSU225)**
 ### Programming Language
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,java" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### Data Science & Machine Learning
