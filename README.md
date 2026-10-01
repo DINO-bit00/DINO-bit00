@@ -81,7 +81,7 @@ Project developed as part of **Coding Camp 2026 Capstone Project (CC26-PSU225)**
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
