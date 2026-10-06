@@ -1,4 +1,4 @@
-# <p align="center">Hi there! I'm Arya Yusuf Fadilah 👋</p>
+# <p align="center">Hi there! I'm Arya Yusuf Fadilah </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Informatics+Student;Data+Science+Enthusiast;Machine+Learning+Learner;Building+AI+%26+Web+Solutions" alt="Typing SVG" />
